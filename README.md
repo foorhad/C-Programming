@@ -1,1 +1,1 @@
-<h1>Basic Problem in C Programming</h1>
+<h1>Basic Problem Solving in C Programming</h1>
